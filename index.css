@@ -1,0 +1,37 @@
+.alamat {
+	height: 250px;   
+	width: 500px;  
+	float: left;
+}
+.layout {
+	background-image: url(gambar3.jpg);
+	background-size: cover;
+	height: 800px;
+	width: 100% ;
+	display: inline-block;	
+}
+.gambar1 {
+	border: 2px solid gray;
+	width:  40%;
+}
+.footer h1 {
+width: 100%;
+background-color: #FFFFFF;
+color: #000;
+padding-top:20px;
+padding-bottom:50px;
+padding-right: auto;
+text-align:center;
+font-size:18px;
+font-weight:bold;
+margin-left: -1.2vh;
+margin-top: 10vh;
+}
+.buttom {
+	border: 2px solid gray;
+	width: 50%;
+	float: right;
+	display: inline-block;
+	margin-top: -125px;
+	margin-right: 100px;
+}
