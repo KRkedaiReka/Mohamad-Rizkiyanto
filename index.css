@@ -24,6 +24,18 @@ font-weight:bold;
 margin-left: -1.2vh;
 margin-top: 10vh;
 }
+.footer a {
+	margin-left: 4vw ;
+}
+.spasi {
+	height: 4vh;
+
+}
+.tulis {
+	margin-left: 8vh;
+	color: #888A8F;
+	margin-bottom: 12px;
+}
 .buttom {
 	width: 60%;
 	float: right;
@@ -35,7 +47,6 @@ margin-top: 10vh;
 }
 
 nav ul {
-    
     padding: 0 0px;
     list-style: none;
     position: relative;
@@ -68,9 +79,9 @@ nav ul li a {
 }
  
 nav ul li a:hover{
- 
+
     color: #fff;
- 
+
 }
  
 nav ul ul {
